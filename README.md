@@ -21,7 +21,7 @@ Actualmente formo parte del equipo de **IBRobotics**, una empresa de robótica e
 
 - **Lenguajes**: `C++`, `C#`, `Python`, `HTML`, `CSS`
 - **Frameworks**: `ROS2 `, `Android`, `Unity`, `React` (aprendiendo)
-- **Robótica**: `RViz`, `Gazebo` (si lo usas), `Linux Terminal`
+- **Robótica**: `RViz`, `Gazebo`, `Linux Terminal`
 - **Control de versiones**: `Git`, `GitHub`
 - **Otras herramientas**: `VS Code`, `Android Studio`, ``
 
